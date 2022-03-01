@@ -1,7 +1,7 @@
 
 ### Hi there 👋, Daniiel Dvir
 #### Design, Marketing, and Development
-![Design, Marketing and Development](https://res.cloudinary.com/disku3v4j/image/upload/v1643720865/daniiel/protfolio.png)
+![Design, Marketing and Development](https://github.com/daniieldvir/daniieldvir/blob/main/protfolio.png)
 
 I'm a junior full Stack Web Developer with knowledge and experience in writing single-page applications and using the latest WEB technologies.
 I'm also a marketing & digital Analyst and senior user acquisition, with knowledge in SQL, python, GTM, and more.
