@@ -1,8 +1,10 @@
 ## Hi there 👋, I'm Daniiel Dvir
 
-I'm a junior full Stack Web Developer with knowledge and experience in writing single-page applications and using the latest WEB technologies.
+Junior Full-Stack / Frontend Web Developer with knowledge and experience in writing single-page applications and using the latest WEB technologies, including Vue.js, Angular, React, and Node.js.
 
-I'm also a marketing & digital Analyst and senior user acquisition, with knowledge in SQL, python, GTM, and more.
+Vast experience in the field of Digital Marketing and Data Analysis with knowledge in SQL, python, GTM, and more.
+
+Holds BA in Communication & Advertising
 
 
 <h4 >Frontend Development: </h4>
