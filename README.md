@@ -1,10 +1,8 @@
 ## Hi there 👋, I'm Daniiel Dvir
 
-A Full-Stack / Frontend Web Developer with knowledge and experience in writing single-page applications and using the latest WEB technologies, including Vue.js, Angular, React, and Node.js.
+Frontend Developer at Kramer with over three years of experience, I specialize in building user-focused, enterprise-grade applications using Angular and NX. My work involves developing reusable, responsive UI components with modern Angular patterns, including signals, OnPush, and strict TypeScript, while contributing to clean, maintainable code and shared libraries in monorepo architectures. 
 
-Vast experience in the field of Digital Marketing and Data Analysis with knowledge in SQL, python, GTM, and more.
-
-Holds BA in Communication & Advertising
+With a strong foundation in full-stack development and skills in CSS, JavaScript, and TypeScript, my focus is on enhancing frontend interfaces and creating seamless user experiences. Collaborating with product, UX, and backend teams, I am dedicated to delivering intuitive and efficient solutions that empower organizations to innovate and grow.
 
 
 <h4 >Frontend Development: </h4>
